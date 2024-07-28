@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ab997203-281d-5696-6c61-faaa6c741900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.PhysicalHandsExamples.Editor", "Ultraleap.PhysicalHandsExamples.Editor.csproj", "{35674621-3f28-990e-ec1e-b6758b71ce40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ultraleap.Tracking.PhysicalHandsExamples", "Ultraleap.Tracking.PhysicalHandsExamples.csproj", "{05de7fc1-4c1f-52b3-b9e0-981f3e889f79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ab997203-281d-5696-6c61-faaa6c741900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ab997203-281d-5696-6c61-faaa6c741900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35674621-3f28-990e-ec1e-b6758b71ce40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35674621-3f28-990e-ec1e-b6758b71ce40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05de7fc1-4c1f-52b3-b9e0-981f3e889f79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05de7fc1-4c1f-52b3-b9e0-981f3e889f79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
